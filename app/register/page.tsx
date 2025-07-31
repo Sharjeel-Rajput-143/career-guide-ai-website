@@ -137,11 +137,11 @@ export default function RegisterPage() {
             </div>
             <p className="text-xs text-center text-gray-500">
               By creating an account, you agree to our{" "}
-              <Link href="/terms" className="text-indigo-600 hover:underline">
+              <Link href="/" className="text-indigo-600 hover:underline">
                 Terms of Service
               </Link>{" "}
               and{" "}
-              <Link href="/privacy" className="text-indigo-600 hover:underline">
+              <Link href="/" className="text-indigo-600 hover:underline">
                 Privacy Policy
               </Link>
             </p>
